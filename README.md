@@ -2,7 +2,7 @@
 
 Projeto desenvolvido com o intuito de demonstrar em prática, o conhecimento adquirido sobre Design Patterns utilizando Java durante o bootcamp Santander - DIO.
 
-## Padrões que forma utilizados
+## Padrões que foram utilizados
 
 ### Strategy
 Utilizado para representar diferentes formas de pagamento.
